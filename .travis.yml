@@ -1,2 +1,6 @@
-language: csharp
-solution: Wise.WPF/Wise.WPF.sln
+{
+  "language": "csharp",
+  "solution": "Wise.WPF/Wise.WPF.sln",
+  "group": "stable",
+  "os": "windows"
+}
