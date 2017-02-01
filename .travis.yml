@@ -1,2 +1,2 @@
 language: csharp
-solution: Wise.Framework.sln
+solution: .\Wise.WPF\Wise.WPF.sln
